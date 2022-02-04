@@ -14,6 +14,8 @@ AMD programs for AMD icons
 custom icons from custom folder: Me
 https://github.com/IconiumGraphics/windows-11-icons
 
-You can find custom folder icons on deviantart to add to this pack. I removed most of the custom icons that I put in this because I forgot who made them. If you find something that you made that you want removed let me know.
+You can find custom folder icons on deviantart to add to this pack
+
+I removed most of the custom icons that I put in this because I forgot who made them, so ff you find something that you made that you want removed let me know
 
 By the way, you have full permission to do whatever you want with this pack. Just don't claim credit for it and link back to here if you upload it somewhere
