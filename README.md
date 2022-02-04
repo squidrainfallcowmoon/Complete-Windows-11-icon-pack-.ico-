@@ -13,5 +13,5 @@ custom icons from custom folder: me
 https://github.com/IconiumGraphics/windows-11-icons
 
 you can find custom folder icons on deviantart to add to this pack
-i removed all the custom icons that i put in this because i forgot who made them
+i removed most of the custom icons that i put in this because i forgot who made them
 if you find something that you made thats in this ill remove it
