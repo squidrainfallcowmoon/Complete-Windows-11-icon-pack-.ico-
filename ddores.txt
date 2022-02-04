@@ -1,0 +1,1 @@
+not all ddores.dll icons were updated for windows 11, although some were teased in the insider preview so they might eventually be added
